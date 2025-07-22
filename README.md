@@ -3,14 +3,16 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
   - Active Directory Home Lab (https://github.com/composedac)
-    
+  
+
 <h2> Certifications </h2>
-<br>Software QA Certificate:</br>
-- (https://github.com/userattachments/files/21030261/AngelaSSQACertification.pdf)
 
+- <b>Software QA</b>
+  - [AngelaSSQACertification.pdf](https://github.com/user-attachments/files/21357432/AngelaSSQACertification.pdf)
+    
+- <b>Automation:</b>
+  - [AngelaAutomationCert.pdf](https://github.com/user-attachments/files/21357471/AngelaAutomationCert.pdf)
 
-<br>Automation:</br>
-- (https://github.com/user-attachments/files/21030220/AngelaAutomationCert.pdf)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/composedac/osticket-prereqs)
