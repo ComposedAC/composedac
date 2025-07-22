@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angela, an <a href="[www.linkedin.com/in/angelasharif](https://www.linkedin.com/in/angelasharif/)">IT Professional!</a>  </h1>
+<h1>Hi, I'm Angela, an <a href="https://www.linkedin.com/in/angelasharif/">IT Professional!</a>  </h1>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
