@@ -12,12 +12,12 @@ Automation:
 <br>AngelaAutomationCert.pdf](https://github.com/user-attachments/files/21030220/AngelaAutomationCert.pdf)</br>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/composedac/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/composedac/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/composedac/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/composedac/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/composedac/azure-network-protocols)
 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
