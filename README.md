@@ -5,7 +5,7 @@
   - [Active Directory Home Lab](https://github.com/composedac)
     
 <h2> Certifications </h2>
-Software QA: [AngelaSSQACertification.pdf(https://github.com/userattachments/files/21030261/AngelaSSQACertification.pdf)
+Software QA: [(https://github.com/userattachments/files/21030261/AngelaSSQACertification.pdf)
 
 
 Automation:
