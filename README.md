@@ -9,7 +9,7 @@ Software QA: [(https://github.com/userattachments/files/21030261/AngelaSSQACerti
 
 
 Automation:
-<br>AngelaAutomationCert.pdf](https://github.com/user-attachments/files/21030220/AngelaAutomationCert.pdf)</br>
+<br>(https://github.com/user-attachments/files/21030220/AngelaAutomationCert.pdf)</br>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/composedac/osticket-prereqs)
